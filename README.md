@@ -1,15 +1,7 @@
-# Sammlung für Physikmaterialien
+# Sammlung Physikbezogener Jupyter Notebooks
+** Diese Sammlung enthält Jupyter Notebooks die im Physik alltag nützlich sind. Im foldenden kommen Vorschau zu den entsprechenden Notebooks und deren Anwendungsbezug. Die Notebooks selber sind dabei minimal gehalten, verständlich geschrieben, und Fertig für Copy and Paste.**
 
-1. Zeigen von interaktiven Applets Beispiel Optik:
-  * Ein [Holspiegel](https://www.geogebra.org/m/AEwsJKRa)  oder auch eine [Linse](https://www.geogebra.org/m/tmvM3Vky)
-2. Knackpunkte in den Übunggruppen (z.B. wo genau ist die Schwierigkeit beim Erkähren von Strahlengägen?) In Form von Textdokumenten.
-3. Zusätzliche Materialen (z.B. Anmationsvideos, Youtube Videos )
-4. Wie soll die Plattform aussehen? lange Einarbeitung + viele Features , schnell lernbar+ wenig Features.
-
-# Ideen für eine Umsetzung der Plattform:
-
-1. Das [CodiMD](https://pad.gwdg.de/) von der GWDG
-+ Cooles einfaches Widget
-- Keine Ordnerunterstützung
-- Scritpe werden nach einem Jahr wieder gelöscht.
-2. Github
+1. Lineare Regession
+[![Lineare Regession](Notebooks/thumb_regression.png)](Notebooks/linear_regression.ipynb)
+1. Nützliche Funktionen
+[![Nützliche Funktionen](Notebooks/thumb_function.png)](Notebooks/useful_functions.ipynb)
