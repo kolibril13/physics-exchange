@@ -5,3 +5,9 @@
 [![Lineare Regession](Notebooks/thumb_regression.png)](Notebooks/linear_regression.ipynb)
 ## Nützliche Funktionen
 [![Nützliche Funktionen](Notebooks/thumb_function.png)](Notebooks/useful_functions.ipynb)
+
+# Formatierungstest
+
+Minimalbeispiel             |  Maximalbeispiel
+:-------------------------:|:-------------------------:
+[![Lineare Regession](Notebooks/thumb_regression.png)](Notebooks/linear_regression.ipynb)  |  [![Nützliche Funktionen](Notebooks/thumb_function.png)](Notebooks/useful_functions.ipynb)
